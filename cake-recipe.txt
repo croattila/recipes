@@ -8,7 +8,6 @@ Ingredients:
  - 2 eggs
  - 1 cup milk
  - 3/4 cup vegetable oil
->>>>>>> 5a2cf4fa7cbf9404ae880339c9c34093e33b0747
  - 2 teaspoons vanilla extract
  - 1 cup boiling water
 
